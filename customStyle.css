@@ -1,0 +1,33 @@
+.titleOrange {
+  color: #EF8354
+}
+
+.paragraphColor{
+  background-color: #2D3142
+}
+
+.backgroundGray{
+    background-color: #444444;
+    border-radius: 25px;
+}
+
+.navColor{
+    color: #EF8354
+}
+
+.navColor:hover{
+    color: white
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+.social {
+    color:inherit;
+    margin-right: 20px;
+}
+
+.social:hover {
+    color:#EF8354;
+}
